@@ -80,11 +80,6 @@ En `Notebooks/` se incluye un ejemplo de **intersección de postings** (AND) y d
 3. Ejecutar el pipeline 1→4 (índice, TF–IDF, consultas, métricas).  
 4. Verificar salidas en `Resultados/` y comparar con el informe.
 
----
-
-## Licencia
-
-Pendiente de definir por el autor del repositorio.
 
 ---
 
